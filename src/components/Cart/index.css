@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+.cart-container {
+  margin-top: 160px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
